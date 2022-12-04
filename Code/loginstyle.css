@@ -1,0 +1,31 @@
+body{
+	background-image: url("image102.jpg");
+	background-size: cover;
+	background-position: "center";
+	background-attachment: fixed;
+}
+
+.login-box{
+	max-width: 360px
+	float: none;
+	margin-top: 90px;
+	margin-left: 760px;
+	background-color: rgba(211,211,211,0.7);
+	padding: 5px;
+	border-radius: 10px 10px 5px 5px;
+}
+
+
+h2.serif{
+   font-family: "algerian", Times, serifs;
+   font-size: 35px;
+   text-shadow: -3px 4px grey;
+   text-align: center;
+   
+}
+
+
+.form-control{
+	background-color: transparent; 
+}
+

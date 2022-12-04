@@ -1,0 +1,58 @@
+body{
+	background: url(Successful01.jpg);
+	background-size: cover;
+	background-position: auto;
+	
+}
+
+.green-tick{
+	max-width: 200px;
+	float: none;
+	margin: 100px auto;
+	align-self: center;
+}
+
+.text1{
+	max-width: 500px;
+	float: none;
+	margin: 100px auto;
+	align-self: center;
+	padding-top: 200px;
+}
+
+.button1{
+	background-color: #666666; 
+  	border: none;
+  	padding: 15px 32px;
+  	margin-left: 500px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+}
+
+.button2{
+	background-color: #666666; 
+  	border: none;
+  	padding: 15px 32px;
+  	margin-left: 150px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;	
+}
+
+.button3{
+	background-color: #666666; 
+  	border: none;
+  	padding: 15px 32px;
+  	margin-left: 625px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;	
+}
+
+.link{
+	color: white;
+}

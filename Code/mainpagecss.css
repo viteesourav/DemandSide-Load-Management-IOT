@@ -1,0 +1,46 @@
+body{
+background-image:url("img123.jpg"); 
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+overflow-x: hidden;
+}
+
+.header{
+	background: rgb(148,147,163);
+	background: linear-gradient(180deg, rgba(148,147,163,1) 17%, rgba(59,53,53,0.9023984593837535) 62%, rgba(0,0,0,0.8015581232492998) 100%);
+}
+
+table.a{
+	min-width: 1650px;
+	table-layout: auto;
+}
+
+.add-box{
+	max-width: 600px;
+	float:none;
+	margin-left: 250px;
+	background-color: rgba(211,211,211,0.25);
+	padding:10px;
+
+}
+
+.box-left{
+    background: rgba(211,211,211,0.5);
+    padding: 30px;
+    border-radius: 10px 10px 5px 5px;
+}
+
+.form-control{
+	background-color: transparent;
+}
+
+button{
+	background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}

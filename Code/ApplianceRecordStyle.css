@@ -1,0 +1,42 @@
+body{
+	background: rgb(2,0,36);
+	background: linear-gradient(150deg, rgba(2,0,36,1) 25%, rgba(14,60,73,1) 67%, rgba(9,96,121,1) 100%);
+}
+
+table{
+	width: 75%;
+
+}
+
+th{
+	height: 25px;
+	padding: 15px;
+	vertical-align: top;
+	text-align: center;
+	color: white;
+	font-size: 22px;
+}
+
+td{
+	color: white;
+	text-align: center;
+}
+
+.box{
+	font-family: "Times New Roman", Times, serif; 
+}
+
+h1{
+	font-family: "Times New Roman", Times, serif;
+	color: white;
+}
+
+/*input{
+	width: 100%;
+	border: none;
+	border-bottom: 2px solid white;
+}*/
+
+.container{
+	text-align: center;
+}
